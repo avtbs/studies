@@ -1,1 +1,0 @@
-{"version":3,"file":"roles.provide.js","sourceRoot":"","sources":["../../../src/config/roles.provide.ts"],"names":[],"mappings":";;;AACA,6CAA2C;AAE9B,QAAA,cAAc,GAAG;IAC5B;QACE,OAAO,EAAE,kBAAkB;QAC3B,UAAU,EAAE,CAAC,UAAsB,EAAE,EAAE,CAAC,UAAU,CAAC,aAAa,CAAC,aAAK,CAAC;QACvE,MAAM,EAAE,CAAC,aAAa,CAAC;KACxB;CACF,CAAC"}
